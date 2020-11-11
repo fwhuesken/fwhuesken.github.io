@@ -1,6 +1,7 @@
 ---
 layout: page
 title: CV
+permalink: /cv/
 published: true
 ---
 [LinkedIn](https://www.linkedin.com/in/felix-huesken-09430446/)
