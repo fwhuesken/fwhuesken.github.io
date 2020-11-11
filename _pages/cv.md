@@ -1,5 +1,6 @@
 ---
 title: CV
+layout: archive
 permalink: /cv/
 published: true
 ---
